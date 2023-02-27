@@ -187,17 +187,3 @@ You also have to make changes to the port, you can't hardcode a dev-port. But yo
 ```js
 const port = process.env.PORT || 4000;
 ```
-
-### Author Links
-
-👋 Hello, I'm Ikram Ul Haq - Web Developer & Programmer
-
-☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdev)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/ikramdeveloper)
-- [LinkedIn](https://www.linkedin.com/in/ikramdeveloper/)
-- [StackOverflow](https://stackoverflow.com/users/13859212/ikram-ul-haq)
-
----
